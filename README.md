@@ -31,7 +31,7 @@ It allows users to generate strong, secure passwords directly in the browser usi
 
 You can host this project using **GitHub Pages** for a live demo:  
 
-> Example link: [YourGitHubUsername.github.io/Ultimate-Password-Generator-Web](https://YourGitHubUsername.github.io/Ultimate-Password-Generator-Web)  
+> Example link: VihanMali.github.io/Ultimate-Password-Generator-Web](https://YourGitHubUsername.github.io/Ultimate-Password-Generator-Web)  
 
 ---
 
