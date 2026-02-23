@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="box">
+        <h1>Generate your Password</h1>     
+        Select Password Strength
+        <select name="strength" id="strength">
+            <option value="easy">Easy</option>
+            <option value="hard">Hard</option>
+            <option value="ultimate">Ultimate</option>
+        </select>
+
+        <input id="firstword" type="text" placeholder="Enter first word of your password">
+        <input type="text" placeholder="Enter second word of your password" id="secondword">
+
+        <div id="inputnew"></div>
+        <button id="generate">Generate</button>
+        <div>Your password is <span id="password"></span></div>
+    </div>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</body>
+</html>

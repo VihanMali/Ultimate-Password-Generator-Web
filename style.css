@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+.box {
+    margin: auto;
+    background-color: #02001d;
+    border-radius: 6px;
+    color: rgb(37, 152, 252);
+    width: 349px;
+    padding: 20px;
+    margin-top: 70px;
+    height: 354px;
+}
+input{
+    display: flex;
+    margin: 10px;
+    padding: 2px;
+    width: 250px ;
+    border-radius: 4px;
+}
+#password{
+    color: rgb(214, 193, 0);
+}
